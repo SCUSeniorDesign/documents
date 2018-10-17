@@ -15,5 +15,4 @@ addition to luminance creates better frame estimation.
   * Specficially the white lines in figure 5 get messed up when not taking chrominance into consideration.
 
 
-[Source](http://ieeexplore.ieee.org.libproxy.scu.edu/stamp/stamp.jsp?
-tp=&arnumber=5413657&isnumber=5413332)
+[Source](http://ieeexplore.ieee.org.libproxy.scu.edu/stamp/stamp.jsp?tp=&arnumber=5413657&isnumber=5413332)
